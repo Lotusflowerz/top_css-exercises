@@ -1,0 +1,20 @@
+p:nth-child(odd) {
+    background-color: palevioletred;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+
+}
+
+#banana {
+    color: blue;
+    font-size: 36px;
+}
+
+.apple {
+    font-size: 24px;
+}
+
+#orange {
+    background-color: #00FF00;
+    font-size: 24px;
+    font-weight: bold;
+}
